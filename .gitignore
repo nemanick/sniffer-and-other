@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/sniffer-and-other/.vs
+/sniffer-and-other/include
+/sniffer-and-other/lib
